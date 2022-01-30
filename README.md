@@ -16,6 +16,8 @@ According to the *[Cloud Native Computing Foundation](https://github.com/cncf/fo
 - **Processes are managed by central orchestration processes to improve resource usage and reduce maintenance costs.**
 - **Applications or services (microservices) are loosely coupled with explicitly described dependencies.**
 
+![cloud-vendors](https://github.com/exajobs/cloud-native-collection/blob/main/img/Cloud-Native_Protection.png)
+
 
 These attributes describe a highly dynamic system that is composed of independent processes that work together to provide business value: a distributed system.
 
