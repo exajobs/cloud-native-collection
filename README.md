@@ -760,11 +760,11 @@ These attributes describe a highly dynamic system that is composed of independen
 - [Cloud Native Community (China)](https://cloudnative.to)
 - [Cloud Native Computing Foundation](https://www.cncf.io/)
 
-## Licenses
-License
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+## License
+MIT License & [cc](https://creativecommons.org/licenses/by/4.0/) license
 
-To the extent possible under law, [Veilair](https://github.com/exajobs/) has waived all copyright and related or neighboring rights to this work.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
 
 [Back to top](#tables-of-contents)
