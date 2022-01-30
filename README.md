@@ -1,6 +1,5 @@
 # Cloud Native Collection
 
-# Cloud Native Development
 > An ongoing curated list of awesome frameworks, important books, articles, talks, libraries, learning tutorials, best practices and technical resources about Cloud Native Development. Thanks to our daily readers and contributoprs. The goal is to build a categorized community-driven collection of very well-known resources. Sharing, suggestions and contributions are always welcome!
 
 
@@ -9,7 +8,7 @@
 
 Cloud Native is a **behavior and design philosophy.** At its essence, any behavior or approach that improves resource utilization and application delivery efficiency in the cloud is called Cloud Native.
 
-![cloud-native-architecture](https://github.com/veilair/cloud-native-development/blob/main/img/what-is-cloud-native-image.png)
+![cloud-native-architecture](https://github.com/exajobs/cloud-native-collection/blob/main/img/what-is-cloud-native-image.png)
 
 According to the *[Cloud Native Computing Foundation](https://github.com/cncf/foundation/blob/main/charter.md)*, cloud-native systems have the following attributes:
 
@@ -22,7 +21,7 @@ These attributes describe a highly dynamic system that is composed of independen
 
 [Cloud computing environments](https://cloud.ibm.com/docs/cloud-native?topic=cloud-native-overview) are **dynamic, with on-demand allocation and release of resources from a virtualized, shared pool.** These elastic environments enable more flexible scaling options when compared to the up-front resource allocation that is typically used in traditional on-premises data centers.
 
-![cloud-native](https://github.com/veilair/cloud-native-development/blob/main/img/cloud-native.png)
+![cloud-native](https://github.com/exajobs/cloud-native-collection/blob/main/img/cloud-native.png)
 
 > From the book of [cloud native spring in action](https://livebook.manning.com/book/cloud-native-spring-in-action/chapter-1/v-1/11), Cloud native applications are highly distributed systems that live in the cloud and are resilient to change.
 
